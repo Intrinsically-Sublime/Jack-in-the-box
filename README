@@ -1,0 +1,80 @@
+---Descriptions---
+
+Designed to be 100% printable.
+
+This is marked as a work in progress because:
+It has not been tested with ABS.
+The Elastic based spring is untested.
+When I printed the one pictured I found some small clearance issues. All of those issues have been fixed.
+
+Video youtube.com/watch?v=qOLgTgvXPc8
+
+The box measures 100mm x 100mm x 100mm
+
+The Spring
+youtube.com/watch?v=GhlY8ZkFTvE
+The spring shown in the video is "Spring_1.stl" it is printed in PLA with infill turned OFF.
+
+I have also included a few different versions that should work in ABS. They do not work in PLA because they end up breaking when printed thicker than one filament wide.
+
+"Spring_2.stl" is thin walled as to be able to printed with infill turned ON.
+
+"Spring_2.1.stl is similar to Spring_2.stl but skeinforge should do a better job slicing it.
+
+"Spring_2.2.stl is my final attempt to get skeinforge to print this in one continuous thread as opposed to jumping around all over the place.
+
+Vitamin Springs (alternate to printed spring)
+If the printable spring seem like to much of a risk you can use one of the following.
+
+Elastic band powered spring. Requires 4 elastic bands.
+Included in plates marked "Elastic" as well as in the individual files
+
+Or a metal 50mm (2") outside diameter spring with a length of 80mm (3.25")
+
+File organization
+100x100_ABS.zip Includes printing plates for a 100x100mm build surface with "Spring_2.2.stl" as the spring. (three plates)
+
+100x100_Elastic.zip Includes printing plates for a 100x100mm build surface with "Elastic powered spring" as the spring. (three plates)
+
+200x200_ABS_plate.stl Includes all the parts and "Spring_2.2.stl" as the spring on one plate.
+
+200x200_Elastic_plate.stl Includes all the parts and "Elastic powered spring" as the spring on one plate.
+
+200x200_PLA.zip Includes 1 plate containing all the parts except the spring. And "Spring_1.stl" which needs to be printed separately with Infill turned off.
+
+Individual_parts.zip includes all the parts separately.
+
+How it works
+The crank handle is connected to a five to one gear reduction that moves a cam to release the lid and let "Jack" pop up after one to five turns of the handle.
+
+Jack
+I have not included a Jester for the box as most people will want to choose something personal to them.
+
+---Instructions---
+
+Push the round end of the latch arm into the socket in the bottom of the box with the spring facing the front of the box.
+
+Slide cam gear into position and insert cam shaft through hole in side of box. (should be tight in gear not box)
+
+Slide compound gear gear into position and install compound gear shaft through hole in side of box. (should be loose in gear and lock into box)
+
+Install crank gear through the last hole and install the handle on the shaft. Should be a tight fit.
+
+Snap lid on to box.
+
+Install spring and "Jack"
+
+A small drop of glue (hot glue) is required to hold in the spring.
+
+Print your favourite head on thingiverse to mount to the spring (use a small amount of hot glue to hold it in place).
+
+Elastic spring instructions
+Install one elastic in bottom of the elastic spring tube by looping the ends of the elastic over the lugs cut out of the sides of the tube.
+
+Install three elastics across top of spring tube over lugs.
+
+Align piston with elastics and push down to bottom of tube.
+
+With piston at the bottom of the tube insert the piston clip over bottom elastic and into hole in piston.
+
+Secure piston clip with wedge. 
